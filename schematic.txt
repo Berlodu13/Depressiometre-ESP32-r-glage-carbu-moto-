@@ -1,0 +1,8 @@
+Schéma électrique :
+
+- GPIO utilisés :
+  - GPIO21 : SDA
+  - GPIO22 : SCL
+  - GPIO34 à GPIO39 : Capteurs analogiques
+  - GPIO4, GPIO5 : Boutons
+  - GPIO18, GPIO19, GPIO23 : Carte SD

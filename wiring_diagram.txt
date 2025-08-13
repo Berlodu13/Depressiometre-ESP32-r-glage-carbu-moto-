@@ -1,0 +1,7 @@
+Plan de câblage du Dépressiomètre ESP32 :
+
+- ESP32 connecté à :
+  - Écran OLED (SDA, SCL)
+  - Capteurs de pression (ADC ou I2C selon modèle)
+  - Boutons (GPIO)
+  - Carte SD (SPI)
